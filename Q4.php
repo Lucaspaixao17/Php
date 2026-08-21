@@ -1,5 +1,4 @@
 <?php
-echo "Digite um número\n";
 $n1 = readline("Digite um número: ");
 $n2 = readline("Digite outro número: ");
 $n3 = readline("Digite outro número:");
