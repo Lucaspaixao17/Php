@@ -1,5 +1,9 @@
 <?php
-echo "Digite um número: ";
-$n1 = readline();
-echo "Seu numero é ".$n1
+$n1 = readline("digite o primeiro número: ");
+$n2 = readline("digite o segundo número: ");
+
+$soma = $n1 + $n2;
+
+echo " a soma dos dois números é: " . $soma;
+
 ?>
